@@ -1,0 +1,141 @@
+Added Component: Designator=DD?(CM4-DF40HC(3.0)-100DS-0.4v_3mm_1.5mm)
+Add component (AddParameter): Name = "Part Number"; Value = "CM5"; VariantName = "[No Variations]"
+Added Component: Designator=DD?(CM4-DF40HC(3.0)-100DS-0.4v_3mm_1.5mm)
+Add component (AddParameter): Name = "Part Number"; Value = "CM5"; VariantName = "[No Variations]"
+Add component: Footprint Not Found AMPHENOL_MDT320M03001
+Add component: Footprint Not Found STEWART_SS-52000-003
+Add component: Footprint Not Found STEWART_SS-52000-003
+Added Pin To Net: NetName=+5Â_CM5 Pin=DD?-77
+Added Pin To Net: NetName=+5Â_CM5 Pin=DD?-79
+Added Pin To Net: NetName=+5Â_CM5 Pin=DD?-81
+Added Pin To Net: NetName=+5Â_CM5 Pin=DD?-83
+Added Pin To Net: NetName=+5Â_CM5 Pin=DD?-85
+Added Pin To Net: NetName=+5Â_CM5 Pin=DD?-87
+Added Net: Name=+5Â_CM5
+Added Net: Name=3.3Â_M2
+Added Net: Name=5Â
+Added Pin To Net: NetName=D1_N Pin=DD?-165
+Added Net: Name=D1_N
+Added Pin To Net: NetName=D1_P Pin=DD?-163
+Added Net: Name=D1_P
+Added Pin To Net: NetName=D_N Pin=DD?-136
+Added Net: Name=D_N
+Added Pin To Net: NetName=D_P Pin=DD?-134
+Added Net: Name=D_P
+Added Net: Name=M2_GND
+Added Pin To Net: NetName=NetDD?_57 Pin=DD?-57
+Added Net: Name=NetDD?_57
+Added Pin To Net: NetName=NetDD?_61 Pin=DD?-61
+Added Net: Name=NetDD?_61
+Added Pin To Net: NetName=NetDD?_62 Pin=DD?-62
+Added Net: Name=NetDD?_62
+Added Pin To Net: NetName=NetDD?_63 Pin=DD?-63
+Added Net: Name=NetDD?_63
+Added Pin To Net: NetName=NetDD?_67 Pin=DD?-67
+Added Net: Name=NetDD?_67
+Added Pin To Net: NetName=NetDD?_69 Pin=DD?-69
+Added Net: Name=NetDD?_69
+Added Pin To Net: NetName=NetDD?_75 Pin=DD?-75
+Added Net: Name=NetDD?_75
+Added Pin To Net: NetName=NetDD?_102 Pin=DD?-102
+Added Net: Name=NetDD?_102
+Added Pin To Net: NetName=NetDD?_104 Pin=DD?-104
+Added Net: Name=NetDD?_104
+Added Pin To Net: NetName=NetDD?_106 Pin=DD?-106
+Added Net: Name=NetDD?_106
+Added Pin To Net: NetName=PCIe_CLK_N Pin=DD?-112
+Added Net: Name=PCIe_CLK_N
+Added Pin To Net: NetName=PCIe_CLK_P Pin=DD?-110
+Added Net: Name=PCIe_CLK_P
+Added Pin To Net: NetName=PCIe_RX_N Pin=DD?-118
+Added Net: Name=PCIe_RX_N
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-1
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-2
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-7
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-8
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-13
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-14
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-22
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-23
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-32
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-33
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-42
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-43
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-52
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-53
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-59
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-60
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-65
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-66
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-71
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-74
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-98
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-107
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-108
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-113
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-114
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-116
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-119
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-120
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-125
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-126
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-131
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-132
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-137
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-138
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-144
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-150
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-155
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-156
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-161
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-162
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-167
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-168
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-173
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-174
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-179
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-180
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-185
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-186
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-191
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-192
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-197
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD?-198
+Added Net: Name=PCIe_RX_P
+Added Pin To Net: NetName=PCIe_TX_N Pin=DD?-124
+Added Net: Name=PCIe_TX_N
+Added Pin To Net: NetName=PCIe_TX_P Pin=DD?-122
+Added Net: Name=PCIe_TX_P
+Added Pin To Net: NetName=RX1_N Pin=DD?-157
+Added Net: Name=RX1_N
+Added Pin To Net: NetName=RX1_P Pin=DD?-159
+Added Net: Name=RX1_P
+Added Pin To Net: NetName=RX_N Pin=DD?-128
+Added Net: Name=RX_N
+Added Pin To Net: NetName=RX_P Pin=DD?-130
+Added Net: Name=RX_P
+Added Pin To Net: NetName=TX1_N Pin=DD?-169
+Added Net: Name=TX1_N
+Added Pin To Net: NetName=TX1_P Pin=DD?-171
+Added Net: Name=TX1_P
+Added Pin To Net: NetName=TX_N Pin=DD?-140
+Added Net: Name=TX_N
+Added Pin To Net: NetName=TX_P Pin=DD?-142
+Added Net: Name=TX_P
+Added Class: Name=Connectors
+Added Class: Name=Sheet1
+Added Class: Name=USB3.0
+Added Differential Pair: Name=D1
+Added Differential Pair: Name=D
+Added Differential Pair: Name=PCIe_CLK
+Added Differential Pair: Name=PCIe_RX
+Added Differential Pair: Name=PCIe_TX
+Added Differential Pair: Name=RX1
+Added Differential Pair: Name=RX
+Added Differential Pair: Name=TX1
+Added Differential Pair: Name=TX
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4

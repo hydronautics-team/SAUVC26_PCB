@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PCIe_RX_P Pin=DD1-116
+Removed Pin From Net: NetName=PCIe_RX_P Pin=J1-43
+Change Net Name : Old Net Name=PCIe_RX_P New Net Name=GND
+Added Pin To Net: NetName=PCIe_RX_P Pin=DD1-116
+Added Pin To Net: NetName=PCIe_RX_P Pin=J1-43
+Added Net: Name=PCIe_RX_P
+Added Rule: Name=Schematic Supply Nets_5
