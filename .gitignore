@@ -3,7 +3,5 @@ History/
 *Logs*/
 *Outputs*/
 *.zip
-*.Prj*
 *.Harness
-*.SchDoc
-*.PcbDoc
+
