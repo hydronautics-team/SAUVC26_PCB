@@ -276,6 +276,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMMTAJWU
 
+[Document14]
+DocumentPath=Connectors.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=5af591e0-d538-450f-acc7-34f5f0265453
 Description=01
@@ -285,32 +302,32 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=Version
-Value=03
+Name=CheckedBy
+Value=
 
 [Parameter2]
-Name=Title
-Value=Материнская плата аппарата НеоВельт
+Name=Decimal_Number_PCB
+Value=ГИДР.123456.010
 
 [Parameter3]
-Name=Release_Date
-Value=29.07.2025
+Name=Decimal_Number_Shematic
+Value=ГИДР.123456.011
 
 [Parameter4]
 Name=DrawnBy
 Value=Булатов и ко
 
 [Parameter5]
-Name=Decimal_Number_Shematic
-Value=ГИДР.123456.011
+Name=Release_Date
+Value=29.07.2025
 
 [Parameter6]
-Name=Decimal_Number_PCB
-Value=ГИДР.123456.010
+Name=Title
+Value=Материнская плата аппарата НеоВельт
 
 [Parameter7]
-Name=CheckedBy
-Value=
+Name=Version
+Value=03
 
 [Configuration1]
 Name=Sources
