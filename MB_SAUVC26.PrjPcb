@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=3
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -44,7 +44,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=01
 
 [Preferences]
 PrefsVaultGUID=
@@ -73,57 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=USNMQNHM
 
 [Document2]
-DocumentPath=Power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SKWECGCQ
-
-[Document3]
-DocumentPath=ETH_SWITCH.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XXUZEFOG
-
-[Document4]
-DocumentPath=Sheet1.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
 DocumentPath=DCDC_Jetson.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FZBLJJCF
 
-[Document6]
+[Document3]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,24 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQELUCFF
 
-[Document7]
-DocumentPath=Connectors.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
+[Document4]
 DocumentPath=4 layers.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORWNVREU
 
-[Document9]
+[Document5]
 DocumentPath=HydroJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document6]
 DocumentPath=MB_SAUVC26.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document7]
 DocumentPath=4 layers_assembly.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ERLROEKC
 
-[Document12]
+[Document8]
 DocumentPath=4 layers_fabrication.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,6 +190,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMMTAJWU
 
+[Document9]
+DocumentPath=DCDC_RPI.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QSHJGYEX
+
 [ProjectVariant1]
 UniqueId=5af591e0-d538-450f-acc7-34f5f0265453
 Description=01
@@ -268,32 +216,32 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=CheckedBy
-Value=
+Name=Version
+Value=03
 
 [Parameter2]
-Name=Decimal_Number_PCB
-Value=ГИДР.123456.010
+Name=Title
+Value=Материнская плата аппарата НеоВельт
 
 [Parameter3]
-Name=Decimal_Number_Shematic
-Value=ГИДР.123456.011
+Name=Release_Date
+Value=29.07.2025
 
 [Parameter4]
 Name=DrawnBy
 Value=Булатов и ко
 
 [Parameter5]
-Name=Release_Date
-Value=29.07.2025
+Name=Decimal_Number_Shematic
+Value=ГИДР.123456.011
 
 [Parameter6]
-Name=Title
-Value=Материнская плата аппарата НеоВельт
+Name=Decimal_Number_PCB
+Value=ГИДР.123456.010
 
 [Parameter7]
-Name=Version
-Value=03
+Name=CheckedBy
+Value=
 
 [Configuration1]
 Name=Sources
