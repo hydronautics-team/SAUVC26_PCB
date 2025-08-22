@@ -55,7 +55,7 @@ ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
 DocumentPath=Sheet1.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -89,7 +89,7 @@ DocumentUniqueId=FZBLJJCF
 
 [Document3]
 DocumentPath=Connectors.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -208,7 +208,7 @@ DocumentUniqueId=QSHJGYEX
 
 [Document10]
 DocumentPath=DCDC_pump.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
