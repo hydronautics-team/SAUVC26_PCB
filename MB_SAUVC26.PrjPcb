@@ -191,7 +191,7 @@ DocumentUniqueId=QMMTAJWU
 
 [Document9]
 DocumentPath=DCDC_RPI.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=b
@@ -205,6 +205,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QSHJGYEX
+
+[Document10]
+DocumentPath=DCDC_pump.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VWBNWZIC
 
 [ProjectVariant1]
 UniqueID=5af591e0-d538-450f-acc7-34f5f0265453
@@ -1227,6 +1244,10 @@ L17=WNNNNNNNWNNNWWWWN
 SortOrder=1
 SortLocation=0
 ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
