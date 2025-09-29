@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=DCDC_Jetson.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=DCDC_pump.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=DCDC_RPI.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=1
