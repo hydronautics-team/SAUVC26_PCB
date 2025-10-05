@@ -74,7 +74,7 @@ DocumentUniqueId=USNMQNHM
 
 [Document2]
 DocumentPath=DCDC_Jetson.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -90,6 +90,23 @@ GenerateClassCluster=0
 DocumentUniqueId=FZBLJJCF
 
 [Document3]
+DocumentPath=DCDC_RPI.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=b
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QSHJGYEX
+
+[Document4]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +123,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQELUCFF
 
-[Document4]
+[Document5]
+DocumentPath=DCDC_pump.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VWBNWZIC
+
+[Document6]
 DocumentPath=4 layers.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORWNVREU
 
-[Document5]
+[Document7]
 DocumentPath=HydroJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document8]
 DocumentPath=MB_SAUVC26.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document9]
 DocumentPath=4 layers_assembly.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ERLROEKC
 
-[Document8]
+[Document10]
 DocumentPath=4 layers_fabrication.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,46 +225,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMMTAJWU
 
-[Document9]
-DocumentPath=DCDC_RPI.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=b
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QSHJGYEX
-
-[Document10]
-DocumentPath=DCDC_pump.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VWBNWZIC
-
 [ProjectVariant1]
 UniqueId=5af591e0-d538-450f-acc7-34f5f0265453
 Description=01
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=2
+Variation1=Designator=R1|UniqueId=\HGZBSZCU|Kind=1|AlternatePart=
+Variation2=Designator=R1b|UniqueId=\RYGOIUCF|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
