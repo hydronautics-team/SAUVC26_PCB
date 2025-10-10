@@ -276,32 +276,32 @@ DocumentPath=Project Outputs for MB_SAUVC26\Design Rule Check - 4layers.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Version
-Value=03
+Name=CheckedBy
+Value=
 
 [Parameter2]
-Name=Title
-Value=Материнская плата аппарата НеоВельт
+Name=Decimal_Number_PCB
+Value=ГИДР.123456.010
 
 [Parameter3]
-Name=Release_Date
-Value=29.07.2025
+Name=Decimal_Number_Shematic
+Value=ГИДР.123456.011
 
 [Parameter4]
 Name=DrawnBy
 Value=Булатов и ко
 
 [Parameter5]
-Name=Decimal_Number_Shematic
-Value=ГИДР.123456.011
+Name=Release_Date
+Value=29.07.2025
 
 [Parameter6]
-Name=Decimal_Number_PCB
-Value=ГИДР.123456.010
+Name=Title
+Value=Материнская плата аппарата НеоВельт
 
 [Parameter7]
-Name=CheckedBy
-Value=
+Name=Version
+Value=03
 
 [Configuration1]
 Name=Sources
