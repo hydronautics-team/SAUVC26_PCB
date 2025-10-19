@@ -264,7 +264,9 @@ UniqueId=5af591e0-d538-450f-acc7-34f5f0265453
 Description=01
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=2
+Variation1=Designator=R1|UniqueId=\HGZBSZCU|Kind=1|AlternatePart=
+Variation2=Designator=R1b|UniqueId=\RYGOIUCF|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
