@@ -1,1 +1,4 @@
 Record=TopLevelDocument|FileName=1gb_switch.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=1gb_switch.SchDoc|FileName=cm5.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=1gb_switch.SchDoc|FileName=Connectors.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=1gb_switch.SchDoc|FileName=dc-dc_eth.SchDoc|SheetNumber=2
