@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=3
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -158,6 +158,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVAWJHQG
 
+[Document7]
+DocumentPath=motherfucker_pcb.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YNUREFKI
+
 [ProjectVariant1]
 UniqueId=951a6c06-cfbe-43b2-a0f9-02a6a7bce763
 Description=01
@@ -186,40 +203,40 @@ Variation8=Designator=C37|UniqueId=\JWSUNGZV|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=CheckedBy
-Value=
+Name=Version
+Value=01
 
 [Parameter2]
-Name=Decimal_Number_PCB
-Value=ГИДР.123456.002
+Name=Title2
+Value=15В в 300В
 
 [Parameter3]
-Name=Decimal_Number_Shematic
-Value=ГИДР.123456.001
+Name=Title1
+Value=Преобразователь из
 
 [Parameter4]
-Name=DrawnBy
-Value=Карманов С.
+Name=Title
+Value=Преобразователь из 15В в 300В
 
 [Parameter5]
 Name=Release_Date
 Value=31.05.25
 
 [Parameter6]
-Name=Title
-Value=Преобразователь из 15В в 300В
+Name=DrawnBy
+Value=Карманов С.
 
 [Parameter7]
-Name=Title1
-Value=Преобразователь из
+Name=Decimal_Number_Shematic
+Value=ГИДР.123456.001
 
 [Parameter8]
-Name=Title2
-Value=15В в 300В
+Name=Decimal_Number_PCB
+Value=ГИДР.123456.002
 
 [Parameter9]
-Name=Version
-Value=01
+Name=CheckedBy
+Value=
 
 [Configuration1]
 Name=Sources
