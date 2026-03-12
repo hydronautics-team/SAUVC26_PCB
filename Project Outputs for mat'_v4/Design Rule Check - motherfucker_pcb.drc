@@ -1,0 +1,30 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\s.karmanov\Documents\Altium\mat'_v4\motherfucker_pcb.PcbDoc
+Date     : 12.03.2026
+Time     : 20:16:31
+
+WARNING: 8 Net Ties failed verification
+   SMT Small Component SB4-SB (218.84mm,33.166mm) on Top Layer 1, SMT Small Component SB4-SB (218.84mm,33.166mm) on Top Layer 1, has isolated copper
+   SMT Small Component SB3-SB (166.643mm,33.166mm) on Top Layer 1, SMT Small Component SB3-SB (166.643mm,33.166mm) on Top Layer 1, has isolated copper
+   SMT Small Component SB2-SB (177.819mm,33.166mm) on Top Layer 1, SMT Small Component SB2-SB (177.819mm,33.166mm) on Top Layer 1, has isolated copper
+   SMT Small Component SB1-SB (198.774mm,33.166mm) on Top Layer 1, SMT Small Component SB1-SB (198.774mm,33.166mm) on Top Layer 1, has isolated copper
+   SMT Small Component SB8-SB (184.169mm,51.2mm) on Top Layer 1, SMT Small Component SB8-SB (184.169mm,51.2mm) on Top Layer 1, has isolated copper
+   SMT Small Component SB7-SB (195.853mm,51.2mm) on Top Layer 1, SMT Small Component SB7-SB (195.853mm,51.2mm) on Top Layer 1, has isolated copper
+   SMT Small Component SB6-SB (229.889mm,51.2mm) on Top Layer 1, SMT Small Component SB6-SB (229.889mm,51.2mm) on Top Layer 1, has isolated copper
+   SMT Small Component SB5-SB (235.731mm,51.2mm) on Top Layer 1, SMT Small Component SB5-SB (235.731mm,51.2mm) on Top Layer 1, has isolated copper
+
+WARNING: Unplated multi-layer pad(s) detected
+   Pad XP10-1(58mm,90.5mm) on Multi-Layer on Net GND
+   Pad XP9-1(87mm,90.5mm) on Multi-Layer on Net GND
+   Pad XP8-1(87mm,46.5mm) on Multi-Layer on Net GND
+   Pad XP7-1(58mm,46.5mm) on Multi-Layer on Net GND
+   Pad Free-NC(93.04mm,89.5mm) on Multi-Layer on Net +V_BAT
+   Pad Free-NC(93.04mm,5.5mm) on Multi-Layer on Net GND
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00

@@ -80,7 +80,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=3
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -97,7 +97,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=4
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -114,7 +114,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -125,13 +125,13 @@ GenerateClassCluster=0
 DocumentUniqueId=AAMPMRBB
 
 [Document5]
-DocumentPath=dc-dc_eth.SchDoc
+DocumentPath=dc-dc_eth+pump.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -148,7 +148,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -159,6 +159,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BVAWJHQG
 
 [Document7]
+DocumentPath=DCDC_Jetson.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QBDVXZVZ
+
+[Document8]
 DocumentPath=motherfucker_pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -180,10 +197,13 @@ UniqueId=951a6c06-cfbe-43b2-a0f9-02a6a7bce763
 Description=01
 AllowFabrication=0
 ParameterCount=0
-VariationCount=3
-Variation1=Designator=T2|UniqueId=\GUBWHDHY|Kind=1|AlternatePart=
-Variation2=Designator=C35|UniqueId=\CAISUSVH|Kind=1|AlternatePart=
-Variation3=Designator=C44|UniqueId=\GQCOKOPH|Kind=1|AlternatePart=
+VariationCount=6
+Variation1=Designator=T3|UniqueId=\GUBWHDHY|Kind=1|AlternatePart=
+Variation2=Designator=C38|UniqueId=\CAISUSVH|Kind=1|AlternatePart=
+Variation3=Designator=C47|UniqueId=\GQCOKOPH|Kind=1|AlternatePart=
+Variation4=Designator=SB6|UniqueId=\VEFSSISM|Kind=1|AlternatePart=
+Variation5=Designator=SB7|UniqueId=\LOEALUXW|Kind=1|AlternatePart=
+Variation6=Designator=SB5|UniqueId=\IIDZGNME|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -191,52 +211,59 @@ UniqueId=fca2f0e5-9cd6-49e9-ade9-8ab5f124c9f4
 Description=02
 AllowFabrication=0
 ParameterCount=0
-VariationCount=8
-Variation1=Designator=C36|UniqueId=\PLATRNYW|Kind=1|AlternatePart=
-Variation2=Designator=C43|UniqueId=\WQBVGJNL|Kind=1|AlternatePart=
-Variation3=Designator=C42|UniqueId=\KHDNZTPU|Kind=1|AlternatePart=
-Variation4=Designator=C41|UniqueId=\BLQJGISZ|Kind=1|AlternatePart=
-Variation5=Designator=C40|UniqueId=\MGLKJZUM|Kind=1|AlternatePart=
-Variation6=Designator=C39|UniqueId=\OHXGETEE|Kind=1|AlternatePart=
-Variation7=Designator=C38|UniqueId=\FDHSTEUT|Kind=1|AlternatePart=
-Variation8=Designator=C37|UniqueId=\JWSUNGZV|Kind=1|AlternatePart=
+VariationCount=11
+Variation1=Designator=C39|UniqueId=\PLATRNYW|Kind=1|AlternatePart=
+Variation2=Designator=C46|UniqueId=\WQBVGJNL|Kind=1|AlternatePart=
+Variation3=Designator=C45|UniqueId=\KHDNZTPU|Kind=1|AlternatePart=
+Variation4=Designator=C44|UniqueId=\BLQJGISZ|Kind=1|AlternatePart=
+Variation5=Designator=C43|UniqueId=\MGLKJZUM|Kind=1|AlternatePart=
+Variation6=Designator=C42|UniqueId=\OHXGETEE|Kind=1|AlternatePart=
+Variation7=Designator=C41|UniqueId=\FDHSTEUT|Kind=1|AlternatePart=
+Variation8=Designator=C40|UniqueId=\JWSUNGZV|Kind=1|AlternatePart=
+Variation9=Designator=SB6|UniqueId=\VEFSSISM|Kind=1|AlternatePart=
+Variation10=Designator=SB7|UniqueId=\LOEALUXW|Kind=1|AlternatePart=
+Variation11=Designator=SB5|UniqueId=\IIDZGNME|Kind=1|AlternatePart=
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for mat'_v4\Design Rule Check - motherfucker_pcb.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Version
-Value=01
+Name=CheckedBy
+Value=
 
 [Parameter2]
-Name=Title2
-Value=15В в 300В
-
-[Parameter3]
-Name=Title1
-Value=Преобразователь из
-
-[Parameter4]
-Name=Title
-Value=Преобразователь из 15В в 300В
-
-[Parameter5]
-Name=Release_Date
-Value=31.05.25
-
-[Parameter6]
-Name=DrawnBy
-Value=Карманов С.
-
-[Parameter7]
-Name=Decimal_Number_Shematic
-Value=ГИДР.123456.001
-
-[Parameter8]
 Name=Decimal_Number_PCB
 Value=ГИДР.123456.002
 
+[Parameter3]
+Name=Decimal_Number_Shematic
+Value=ГИДР.123456.001
+
+[Parameter4]
+Name=DrawnBy
+Value=Карманов С.
+
+[Parameter5]
+Name=Release_Date
+Value=08.03.26
+
+[Parameter6]
+Name=Title
+Value=Материнская плата аппарата Неовельт v.2
+
+[Parameter7]
+Name=Title1
+Value=Материнская плата
+
+[Parameter8]
+Name=Title2
+Value=аппарата Неовельт v.2
+
 [Parameter9]
-Name=CheckedBy
-Value=
+Name=Version
+Value=04
 
 [Configuration1]
 Name=Sources
