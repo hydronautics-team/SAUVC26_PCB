@@ -237,17 +237,6 @@ Variation2=Designator=SB3|UniqueId=\LOEALUXW|Kind=1|AlternatePart=
 Variation3=Designator=SB1|UniqueId=\IIDZGNME|Kind=1|AlternatePart=
 ParamVariationCount=0
 
-[ProjectVariant2]
-UniqueId=fca2f0e5-9cd6-49e9-ade9-8ab5f124c9f4
-Description=02
-AllowFabrication=0
-ParameterCount=0
-VariationCount=3
-Variation1=Designator=SB6|UniqueId=\VEFSSISM|Kind=1|AlternatePart=
-Variation2=Designator=SB7|UniqueId=\LOEALUXW|Kind=1|AlternatePart=
-Variation3=Designator=SB5|UniqueId=\IIDZGNME|Kind=1|AlternatePart=
-ParamVariationCount=0
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for mat'_v4\Design Rule Check - motherfucker_pcb.html
 DItemRevisionGUID=
