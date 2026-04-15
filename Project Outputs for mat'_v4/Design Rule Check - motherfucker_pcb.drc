@@ -1,22 +1,22 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\s.karmanov\Documents\Altium\mat'_v4\motherfucker_pcb.PcbDoc
-Date     : 13.04.2026
-Time     : 3:14:10
+Date     : 16.04.2026
+Time     : 2:12:45
 
 WARNING: 8 Net Ties failed verification
+   SMT Small Component SB6-SB (50.995mm,36.444mm) on Top Layer 1, SMT Small Component SB6-SB (50.995mm,36.444mm) on Top Layer 1, has isolated copper
+   SMT Small Component SB7-SB (50.995mm,35.294mm) on Top Layer 1, SMT Small Component SB7-SB (50.995mm,35.294mm) on Top Layer 1, has isolated copper
+   SMT Small Component SB5-SB (55.905mm,37.131mm) on Top Layer 1, SMT Small Component SB5-SB (55.905mm,37.131mm) on Top Layer 1, has isolated copper
+   SMT Small Component SB8-SB (55.905mm,35.956mm) on Top Layer 1, SMT Small Component SB8-SB (55.905mm,35.956mm) on Top Layer 1, has isolated copper
    SMT Small Component SB4-SB (50.067mm,38.381mm) on Top Layer 1, SMT Small Component SB4-SB (50.067mm,38.381mm) on Top Layer 1, has isolated copper
    SMT Small Component SB3-SB (55.932mm,7.869mm) on Top Layer 1, SMT Small Component SB3-SB (55.932mm,7.869mm) on Top Layer 1, has isolated copper
    SMT Small Component SB2-SB (70.895mm,2.119mm) on Top Layer 1, SMT Small Component SB2-SB (70.895mm,2.119mm) on Top Layer 1, has isolated copper
    SMT Small Component SB1-SB (74.355mm,2.881mm) on Top Layer 1, SMT Small Component SB1-SB (74.355mm,2.881mm) on Top Layer 1, has isolated copper
-   SMT Small Component SB8-SB (55.905mm,35.956mm) on Top Layer 1, SMT Small Component SB8-SB (55.905mm,35.956mm) on Top Layer 1, has isolated copper
-   SMT Small Component SB5-SB (55.905mm,37.131mm) on Top Layer 1, SMT Small Component SB5-SB (55.905mm,37.131mm) on Top Layer 1, has isolated copper
-   SMT Small Component SB7-SB (50.995mm,35.294mm) on Top Layer 1, SMT Small Component SB7-SB (50.995mm,35.294mm) on Top Layer 1, has isolated copper
-   SMT Small Component SB6-SB (50.995mm,36.444mm) on Top Layer 1, SMT Small Component SB6-SB (50.995mm,36.444mm) on Top Layer 1, has isolated copper
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.15mm) (InNetClass('Port 0') or InNetClass('Port 1') or  InNetClass('Port 2') or InNetClass('Port 3') or InNetClass('HDMI') or InNetClass('PCIe') or InNetClass('Port 4') or InNetClass('rs_485') or InNetClass('USB2') or InNetClass('USB3_0')),(All)
+Processing Rule : Clearance Constraint (Gap=0.15mm) (InNetClass('Port 0') or InNetClass('Port 1') or  InNetClass('Port 2') or InNetClass('Port 3') or InNetClass('HDMI') or InNetClass('PCIe') or InNetClass('Port 4') or InNetClass('rs_485') or InNetClass('USB2') or InNetClass('USB3_0') or InNetClass('rs_485_2')),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (OnLayer('Top Solder') or OnLayer('Bottom Solder')),(All)
@@ -63,10 +63,19 @@ Processing Rule : Silk To Solder Mask (Clearance=0.01mm) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.01mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Polygon Region (0 hole(s)) Bottom Overlay And Text "извените а здесь бутылки" (94.877mm,74.949mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Polygon Region (0 hole(s)) Bottom Overlay And Text "извените а здесь бутылки" (94.877mm,74.949mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Polygon Region (0 hole(s)) Bottom Overlay And Text "принимают???" (94.877mm,73.624mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Polygon Region (0 hole(s)) Bottom Overlay And Text "принимают???" (94.877mm,73.624mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Region (429 hole(s)) Bottom Overlay And Text "извените а здесь бутылки" (94.877mm,74.949mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Text "2026" (9.4mm,79.78mm) on Bottom Overlay And Text "Sanya, China" (9.4mm,81.277mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Text "BMSTU" (8.5mm,83.28mm) on Bottom Overlay And Text "Hydronautics" (10.75mm,84.826mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
-   Violation between Silk To Silk Clearance Constraint: (0.007mm < 0.01mm) Between Text "C46" (38.934mm,14.972mm) on Top Overlay And Track (40.125mm,14.8mm)(40.875mm,14.8mm) on Top Overlay Silk Text to Silk Clearance [0.007mm]
-Rule Violations :3
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Text "C26" (59.641mm,17.65mm) on Bottom Overlay And Text "C82" (61.916mm,18.1mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.007mm < 0.01mm) Between Text "C47" (38.934mm,14.972mm) on Top Overlay And Track (40.125mm,14.8mm)(40.875mm,14.8mm) on Top Overlay Silk Text to Silk Clearance [0.007mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Text "R6" (46.066mm,49.2mm) on Bottom Overlay And Track (44.255mm,50.16mm)(49.745mm,50.16mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Text "R7" (47.766mm,49.2mm) on Bottom Overlay And Track (44.255mm,50.16mm)(49.745mm,50.16mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Text "извените а здесь бутылки" (94.877mm,74.949mm) on Bottom Overlay And Text "принимают???" (94.877mm,73.624mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
+Rule Violations :12
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -75,6 +84,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 7
+Violations Detected : 16
 Waived Violations : 0
-Time Elapsed        : 00:00:27
+Time Elapsed        : 00:00:42

@@ -226,6 +226,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document11]
+DocumentPath=motherfucker_pcb_asm.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YIIIFUUT
+
+[Document12]
+DocumentPath=motherfucker_pcb_fabr.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WKXPGTSS
+
 [ProjectVariant1]
 UniqueId=951a6c06-cfbe-43b2-a0f9-02a6a7bce763
 Description=01
@@ -242,40 +276,40 @@ DocumentPath=Project Outputs for mat'_v4\Design Rule Check - motherfucker_pcb.ht
 DItemRevisionGUID=
 
 [Parameter1]
-Name=CheckedBy
-Value=
+Name=Version
+Value=04
 
 [Parameter2]
-Name=Decimal_Number_PCB
-Value=ГИДР.123456.002
-
-[Parameter3]
-Name=Decimal_Number_Shematic
-Value=ГИДР.123456.001
-
-[Parameter4]
-Name=DrawnBy
-Value=Карманов С.
-
-[Parameter5]
-Name=Release_Date
-Value=08.03.26
-
-[Parameter6]
-Name=Title
-Value=Материнская плата аппарата Неовельт v.2
-
-[Parameter7]
-Name=Title1
-Value=Материнская плата
-
-[Parameter8]
 Name=Title2
 Value=аппарата Неовельт v.2
 
+[Parameter3]
+Name=Title1
+Value=Материнская плата
+
+[Parameter4]
+Name=Title
+Value=Материнская плата аппарата Неовельт v.2
+
+[Parameter5]
+Name=Release_Date
+Value=16.04.26
+
+[Parameter6]
+Name=DrawnBy
+Value=Карманов С.
+
+[Parameter7]
+Name=Decimal_Number_Shematic
+Value=ГИДР.123456.011
+
+[Parameter8]
+Name=Decimal_Number_PCB
+Value=ГИДР.123456.010
+
 [Parameter9]
-Name=Version
-Value=04
+Name=CheckedBy
+Value=
 
 [Configuration1]
 Name=Sources
@@ -308,7 +342,7 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=HydroJob.OutJob
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
-LocalReleaseTarget=ГИДР.123456.001-01.01
+LocalReleaseTarget=ГИДР.123456.016-04.01
 
 [Configuration4]
 Name=Assembly
