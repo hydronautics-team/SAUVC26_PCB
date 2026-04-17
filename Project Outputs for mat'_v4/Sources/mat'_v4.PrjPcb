@@ -351,6 +351,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for mat'_v4\Gerber files\motherfucker_pcb.TXT
 DItemRevisionGUID=
 
+[GeneratedDocument21]
+DocumentPath=Project Outputs for mat'_v4\Документация\ГИДР.123456.011-04.01.xls
+DItemRevisionGUID=
+
 [Parameter1]
 Name=CheckedBy
 Value=
@@ -418,7 +422,7 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=HydroJob.OutJob
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
-LocalReleaseTarget=ГИДР.123456.016-04.01
+LocalReleaseTarget=ГИДР.123456.011-04.01
 
 [Configuration4]
 Name=Assembly
