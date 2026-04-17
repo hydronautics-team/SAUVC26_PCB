@@ -21,7 +21,7 @@ TargetOutputMedium=BOM
 VariantName=01
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=NPI649482 (HP LaserJet M1536dnf MFP)
+TargetPrinter=Canon G3010 series (êîïèÿ 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -110,7 +110,7 @@ PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration4_Name1=ColumnNameFormat
 Configuration4_Item1=CaptionAsName
 Configuration4_Name2=General
-Configuration4_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1346|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration4_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\s.karmanov\Documents\Altium\Hydrolib\Templates\BOM ÅÑÊÄ.xls|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1346|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
 Configuration4_Name3=GroupOrder
 Configuration4_Item3=
 Configuration4_Name4=SortOrder
@@ -349,7 +349,7 @@ OutputFileNameMulti6=
 UseOutputNameForMulti6=1
 OutputFileNameSpecial6=
 OpenOutput6=1
-OutputFilePath7=C:\Users\s.karmanov\Documents\Altium\Eth_switch_1gbit\Project Outputs for Eth_switch_1gbit\
+OutputFilePath7=C:\Users\s.karmanov\Documents\Altium\mat'_v4\Project Outputs for mat'_v4\
 ReleaseManaged7=1
 OutputBasePath7=Project Outputs for mat'_v4
 OutputPathMedia7=
@@ -395,7 +395,7 @@ OpenGerberOutput6=0
 OpenNCDrillOutput6=0
 OpenIPCOutput6=0
 EnableReload6=0
-RelativeOutputPath7=C:\Users\s.karmanov\Documents\Altium\Eth_switch_1gbit\Project Outputs for Eth_switch_1gbit\
+RelativeOutputPath7=C:\Users\s.karmanov\Documents\Altium\mat'_v4\Project Outputs for mat'_v4\
 OpenOutputs7=1
 AddToProject7=1
 TimestampFolder7=0
