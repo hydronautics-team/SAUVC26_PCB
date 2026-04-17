@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\s.karmanov\Documents\Altium\mat'_v4\motherfucker_pcb.PcbDoc
 Date     : 17.04.2026
-Time     : 5:33:00
+Time     : 13:55:58
 
 WARNING: 8 Net Ties failed verification
    SMT Small Component SB6-SB (50.995mm,36.444mm) on Top Layer 1, SMT Small Component SB6-SB (50.995mm,36.444mm) on Top Layer 1, has isolated copper
@@ -87,4 +87,4 @@ Rule Violations :0
 
 Violations Detected : 17
 Waived Violations : 0
-Time Elapsed        : 00:00:26
+Time Elapsed        : 00:00:40
