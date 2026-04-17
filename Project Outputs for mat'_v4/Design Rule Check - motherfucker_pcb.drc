@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\s.karmanov\Documents\Altium\mat'_v4\motherfucker_pcb.PcbDoc
-Date     : 16.04.2026
-Time     : 2:12:45
+Date     : 17.04.2026
+Time     : 5:11:59
 
 WARNING: 8 Net Ties failed verification
    SMT Small Component SB6-SB (50.995mm,36.444mm) on Top Layer 1, SMT Small Component SB6-SB (50.995mm,36.444mm) on Top Layer 1, has isolated copper
@@ -33,7 +33,8 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Track (30.2mm,77.5mm)(45.3mm,77.5mm) on Top Layer 1 Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Track (30.2mm,87.6mm)(45.3mm,87.6mm) on Top Layer 1 Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Track (45.3mm,77.5mm)(45.3mm,87.6mm) on Top Layer 1 Dead Copper - Net Not Assigned.
-Rule Violations :4
+   Violation between Un-Routed Net Constraint: Net NetC44_2 Between Track (78.475mm,36.275mm)(78.475mm,37.175mm) on Bottom Layer 6 And Track (80.075mm,37.175mm)(81.098mm,37.175mm) on Bottom Layer 6 
+Rule Violations :5
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -60,7 +61,10 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.01mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.01mm) (IsPad),(All)
-Rule Violations :0
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.01mm) Between Pad C74-1(24.05mm,19.25mm) on Top Layer 1 And Text "C59" (23.766mm,19.6mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.01mm) Between Pad C74-2(22.45mm,19.25mm) on Top Layer 1 And Text "C59" (23.766mm,19.6mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.01mm) Between Pad DD1-SH3(84mm,39mm) on Multi-Layer And Text "C44" (82.239mm,38.779mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+Rule Violations :3
 
 Processing Rule : Silk to Silk (Clearance=0.01mm) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Polygon Region (0 hole(s)) Bottom Overlay And Text "извените а здесь бутылки" (94.877mm,74.949mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
@@ -68,14 +72,15 @@ Processing Rule : Silk to Silk (Clearance=0.01mm) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Polygon Region (0 hole(s)) Bottom Overlay And Text "принимают???" (94.877mm,73.624mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Polygon Region (0 hole(s)) Bottom Overlay And Text "принимают???" (94.877mm,73.624mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Region (429 hole(s)) Bottom Overlay And Text "извените а здесь бутылки" (94.877mm,74.949mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Text "2026" (9.4mm,79.78mm) on Bottom Overlay And Text "Sanya, China" (9.4mm,81.277mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0mm < 0.01mm) Between Text "2026" (9.4mm,79.88mm) on Bottom Overlay And Text "Sanya, China" (9.4mm,81.391mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Text "BMSTU" (8.5mm,83.28mm) on Bottom Overlay And Text "Hydronautics" (10.75mm,84.826mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Text "C26" (59.641mm,17.65mm) on Bottom Overlay And Text "C82" (61.916mm,18.1mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
    Violation between Silk To Silk Clearance Constraint: (0.007mm < 0.01mm) Between Text "C47" (38.934mm,14.972mm) on Top Overlay And Track (40.125mm,14.8mm)(40.875mm,14.8mm) on Top Overlay Silk Text to Silk Clearance [0.007mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Text "C59" (23.766mm,19.6mm) on Top Overlay And Track (23.25mm,18.8mm)(23.25mm,19.7mm) on Top Overlay Silk Text to Silk Clearance [0mm]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Text "R6" (46.066mm,49.2mm) on Bottom Overlay And Track (44.255mm,50.16mm)(49.745mm,50.16mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Text "R7" (47.766mm,49.2mm) on Bottom Overlay And Track (44.255mm,50.16mm)(49.745mm,50.16mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.01mm) Between Text "извените а здесь бутылки" (94.877mm,74.949mm) on Bottom Overlay And Text "принимают???" (94.877mm,73.624mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
-Rule Violations :12
+Rule Violations :13
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -84,6 +89,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 16
+Violations Detected : 21
 Waived Violations : 0
-Time Elapsed        : 00:00:42
+Time Elapsed        : 00:00:27
