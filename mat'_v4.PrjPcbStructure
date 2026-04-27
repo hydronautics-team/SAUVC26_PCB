@@ -1,6 +1,6 @@
 Record=TopLevelDocument|FileName=1gb_switch.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=1gb_switch.SchDoc|FileName=cm5.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=1gb_switch.SchDoc|FileName=Connectors.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=1gb_switch.SchDoc|FileName=connectors.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=1gb_switch.SchDoc|FileName=dc-dc_eth+pump.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=1gb_switch.SchDoc|FileName=DCDC_Jetson.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=1gb_switch.SchDoc|FileName=DCDC_RPI.SchDoc|SheetNumber=2
