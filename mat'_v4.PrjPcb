@@ -356,36 +356,36 @@ DocumentPath=Project Outputs for mat'_v4\Документация\ГИДР.12345
 DItemRevisionGUID=
 
 [Parameter1]
-Name=CheckedBy
-Value=
+Name=Title2
+Value=аппарата NeoWelt v.2
 
 [Parameter2]
 Name=Decimal_Number_PCB
-Value=ГИДР.123456.010
+Value=РТ2.11.03.03.26.08.81.15.002
 
 [Parameter3]
 Name=Decimal_Number_Shematic
-Value=ГИДР.123456.011
+Value=РТ2.11.03.03.26.08.81.15.001
 
 [Parameter4]
-Name=DrawnBy
-Value=Карманов С.
+Name=Title
+Value=Материнская плата аппарата NeoWelt v.2
 
 [Parameter5]
-Name=Release_Date
-Value=16.04.26
-
-[Parameter6]
-Name=Title
-Value=Материнская плата аппарата Неовельт v.2
-
-[Parameter7]
 Name=Title1
 Value=Материнская плата
 
+[Parameter6]
+Name=DrawnBy
+Value=Карманов С.
+
+[Parameter7]
+Name=CheckedBy
+Value=Захаржевский С.
+
 [Parameter8]
-Name=Title2
-Value=аппарата Неовельт v.2
+Name=Release_Date
+Value=16.04.26
 
 [Parameter9]
 Name=Version
@@ -585,6 +585,16 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+OutputType22=SIMetrixNetlist
+OutputName22=SIMetrix
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=SIMPLISNetlist
+OutputName23=SIMPLIS
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -596,6 +606,16 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -850,6 +870,11 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
+OutputType10=GOSTBOM
+OutputName10=GOST BOM
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
