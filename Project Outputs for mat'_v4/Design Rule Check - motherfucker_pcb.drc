@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\s.karmanov\Documents\Altium\mat'_v4\motherfucker_pcb.PcbDoc
-Date     : 17.04.2026
-Time     : 13:55:58
+PCB File : C:\Users\shustrik\Documents\Altium\SAUVC26_PCB\motherfucker_pcb.PcbDoc
+Date     : 01.06.2026
+Time     : 18:48:43
 
 WARNING: 8 Net Ties failed verification
    SMT Small Component SB6-SB (50.995mm,36.444mm) on Top Layer 1, SMT Small Component SB6-SB (50.995mm,36.444mm) on Top Layer 1, has isolated copper
@@ -14,9 +14,10 @@ WARNING: 8 Net Ties failed verification
    SMT Small Component SB1-SB (74.355mm,2.881mm) on Top Layer 1, SMT Small Component SB1-SB (74.355mm,2.881mm) on Top Layer 1, has isolated copper
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
-Rule Violations :0
+   Violation between Clearance Constraint: (0.147mm < 0.15mm) Between Pad DD5-95(37.5mm,23.8mm) on Bottom Layer 6 And Region (0 hole(s)) Bottom Layer 6 
+Rule Violations :1
 
-Processing Rule : Clearance Constraint (Gap=0.15mm) (InNetClass('Port 0') or InNetClass('Port 1') or  InNetClass('Port 2') or InNetClass('Port 3') or InNetClass('HDMI') or InNetClass('PCIe') or InNetClass('Port 4') or InNetClass('rs_485') or InNetClass('USB2') or InNetClass('USB3_0') or InNetClass('rs_485_2')),(All)
+Processing Rule : Clearance Constraint (Gap=0.15mm) (InNetClass('Port 0') or InNetClass('Port 1') or  InNetClass('Port 2') or InNetClass('Port 3') or InNetClass('HDMI') or InNetClass('PCIe') or InNetClass('Port 4') or InNetClass('rs_485') or InNetClass('USB2') or InNetClass('USB3_0') or InNetClass('USB3_1') or InNetClass('rs_485_2')),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (OnLayer('Top Solder') or OnLayer('Bottom Solder')),(All)
@@ -33,8 +34,7 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Track (30.2mm,77.5mm)(45.3mm,77.5mm) on Top Layer 1 Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Track (30.2mm,87.6mm)(45.3mm,87.6mm) on Top Layer 1 Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Track (45.3mm,77.5mm)(45.3mm,87.6mm) on Top Layer 1 Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Net NetC44_2 Between Track (78.475mm,36.275mm)(78.475mm,37.175mm) on Bottom Layer 6 And Track (80.075mm,37.175mm)(81.098mm,37.175mm) on Bottom Layer 6 
-Rule Violations :5
+Rule Violations :4
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -79,12 +79,13 @@ Processing Rule : Silk to Silk (Clearance=0.01mm) (All),(All)
 Rule Violations :12
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-Rule Violations :0
+   Violation between Net Antennae: Via (14.2mm,40.6mm) from Top Layer 1 to Bottom Layer 6 
+Rule Violations :1
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 17
+Violations Detected : 18
 Waived Violations : 0
-Time Elapsed        : 00:00:40
+Time Elapsed        : 00:00:20
