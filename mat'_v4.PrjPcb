@@ -355,41 +355,53 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for mat'_v4\Документация\ГИДР.123456.011-04.01.xls
 DItemRevisionGUID=
 
+[GeneratedDocument22]
+DocumentPath=Project Outputs for mat'_v4\Документация\РТ2.11.03.03.26.08.81.15.001-04.01.xls
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for mat'_v4\Документация\РТ2.11.03.03.26.08.81.15.002-04.01.xls
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for mat'_v4\Документация\РТ2.11.03.03.26.08.81.15.003-04.01.xls
+DItemRevisionGUID=
+
 [Parameter1]
-Name=CheckedBy
-Value=Захаржевский С.
+Name=Version
+Value=04
 
 [Parameter2]
-Name=Decimal_Number_PCB
-Value=РТ2.11.03.03.26.08.81.15.002
+Name=Title2
+Value=аппарата NeoWelt v.2
 
 [Parameter3]
-Name=Decimal_Number_Shematic
-Value=РТ2.11.03.03.26.08.81.15.001
+Name=Title1
+Value=Материнская плата
 
 [Parameter4]
-Name=DrawnBy
-Value=Карманов С.
+Name=Title
+Value=Материнская плата аппарата NeoWelt v.2
 
 [Parameter5]
 Name=Release_Date
 Value=16.04.26
 
 [Parameter6]
-Name=Title
-Value=Материнская плата аппарата NeoWelt v.2
+Name=DrawnBy
+Value=Карманов С.
 
 [Parameter7]
-Name=Title1
-Value=Материнская плата
+Name=Decimal_Number_Shematic
+Value=РТ2.11.03.03.26.08.81.15.003
 
 [Parameter8]
-Name=Title2
-Value=аппарата NeoWelt v.2
+Name=Decimal_Number_PCB
+Value=РТ2.11.03.03.26.08.81.15.002
 
 [Parameter9]
-Name=Version
-Value=04
+Name=CheckedBy
+Value=Захаржевский С.
 
 [Configuration1]
 Name=Sources

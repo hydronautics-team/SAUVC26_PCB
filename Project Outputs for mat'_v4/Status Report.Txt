@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 5:45:27 On 17.04.2026
+Start Output Generation At 10:26:58 On 10.06.2026
 
 Output: Bill of Materials
 Type  : BOM
 From  : Variant [01] of Project [mat'_v4.PrjPcb]
-   Generated File[ÃÈÄÐ.123456.011-04.01.xls]
+   Generated File[ÐÒ2.11.03.03.26.08.81.15.003-04.01.xls]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 5:45:39 On 17.04.2026
+Finished Output Generation At 10:27:08 On 10.06.2026
